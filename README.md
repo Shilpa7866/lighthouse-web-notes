@@ -11,6 +11,8 @@ This repository contains all of the notes taken by [Shilpa](https://github.com/S
 
 ## TABLE OF CONTENT
 
+   * [Week_1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
 
-  * [Week 1](/Week_1)
-    * [Day 1](/Week_1/Day_1)
+
+  
