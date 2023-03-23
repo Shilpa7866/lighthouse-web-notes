@@ -5,4 +5,7 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Shilpa for the Lighthouse Labs Web Development Bootcamp.
+
+This repository contains all of the notes taken by [Shilpa](https://github.com/Shilpa7866) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp. 
+
+
